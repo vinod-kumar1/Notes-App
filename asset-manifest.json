@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/vinod-kumar1/Notes-App/static/css/main.9fdfa911.css",
-    "main.js": "/vinod-kumar1/Notes-App/static/js/main.1720b471.js",
-    "static/js/488.69b53566.chunk.js": "/vinod-kumar1/Notes-App/static/js/488.69b53566.chunk.js",
-    "index.html": "/vinod-kumar1/Notes-App/index.html",
-    "main.9fdfa911.css.map": "/vinod-kumar1/Notes-App/static/css/main.9fdfa911.css.map",
-    "main.1720b471.js.map": "/vinod-kumar1/Notes-App/static/js/main.1720b471.js.map",
-    "488.69b53566.chunk.js.map": "/vinod-kumar1/Notes-App/static/js/488.69b53566.chunk.js.map"
+    "main.css": "/Notes-App/static/css/main.9fdfa911.css",
+    "main.js": "/Notes-App/static/js/main.da916f4e.js",
+    "static/js/488.69b53566.chunk.js": "/Notes-App/static/js/488.69b53566.chunk.js",
+    "index.html": "/Notes-App/index.html",
+    "main.9fdfa911.css.map": "/Notes-App/static/css/main.9fdfa911.css.map",
+    "main.da916f4e.js.map": "/Notes-App/static/js/main.da916f4e.js.map",
+    "488.69b53566.chunk.js.map": "/Notes-App/static/js/488.69b53566.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9fdfa911.css",
-    "static/js/main.1720b471.js"
+    "static/js/main.da916f4e.js"
   ]
 }
