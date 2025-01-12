@@ -2,7 +2,7 @@
   "name": "notes-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/vinod-kumar1/Notes-App",
+  "homepage": "https://vinod-kumar1.github.io/Notes-App",
   "dependencies": {
     "cra-template": "1.2.0",
     "react": "^19.0.0",
